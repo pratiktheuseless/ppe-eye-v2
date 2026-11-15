@@ -1,0 +1,13 @@
+numpy
+opencv-python
+torch
+torchvision
+ultralytics>=8.3
+pyyaml
+pandas
+streamlit
+imbalanced-learn
+pytest
+onnx
+# optional (GPU): tensorrt, onnxruntime-gpu
+imageio-ffmpeg
